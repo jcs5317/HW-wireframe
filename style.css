@@ -64,9 +64,7 @@ article {
     
 }
 .clearfix:after {
-    content: "";
     clear: both;
-    display: table;
     overflow: auto;
 }
 aside{
